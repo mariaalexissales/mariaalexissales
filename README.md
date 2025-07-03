@@ -6,7 +6,7 @@
 
 <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariaalexissales&theme=tokyonight" alt="GitHub Streak" /></a> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaalexissales&theme=tokyonight&column=3&margin-w=15&margin-h=15" alt="mariaalexissales" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaalexissales&theme=aura&column=3&margin-w=15&margin-h=15" alt="mariaalexissales" /></a> </p>
 
 - 🔭 I’m currently working on [Shipwrecked: A Stranded Body](https://github.com/E-lysium/shipwreck)
 
