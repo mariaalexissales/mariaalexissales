@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Maria Alexis Sales 👋</h1>
 
 <p align="center">
-Full Stack Engineer @ USG • ex-Blizzard (Diablo II: Resurrected)
-</p>
-
-<p align="center">
 Currently building scalable systems on the web -  
 with roots in game LiveOps & automation.
 </p>
