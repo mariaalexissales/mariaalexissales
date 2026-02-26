@@ -1,20 +1,87 @@
-<h1 align="center">Hi, I'm Maria Alexis Sales! 👋</h1>
+<h1 align="center">Hi, I'm Maria Alexis Sales 👋</h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mariaalexissales&label=Profile%20views&color=0e75b6&style=flat" alt="mariaalexissales" /> </p>
+<p align="center">
+Full Stack Engineer @ USG • ex-Blizzard (Diablo II: Resurrected)
+</p>
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Obitron&pause=1000&color=8647F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Game+Developer" alt="Typing SVG" /></a> </p>
+<p align="center">
+Currently building scalable systems on the web -  
+with roots in game LiveOps & automation.
+</p>
 
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mariaalexissales&theme=shadow-purple" alt="GitHub Streak" /></a> </p>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=mariaalexissales&label=Profile%20views&color=8647F7&style=flat" alt="mariaalexissales" /> 
+</p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mariaalexissales&theme=aura&column=3&margin-w=15&margin-h=15" alt="mariaalexissales" /></a> </p>
+<p align="center"> 
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=8647F7&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Modernizing+Legacy+Systems;Game+Systems+%26+LiveOps;Full+Stack+Developer" alt="Typing SVG" />
+</a> 
+</p>
 
-<h1 align="center">👩‍💻Technology Stack💻</h1>
+<p align="center"> 
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com?user=mariaalexissales&theme=shadow-purple" alt="GitHub Streak" />
+</a> 
+</p>
 
-## Languaages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+---
 
-## Frameworks, Platforms, and Libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+## 🌌 Experience Snapshot
+- Full Stack Developer at **USG**
+  - Maintain and enhance production web applications supporting content discovery and digital resources
+  - Collaborate with stakeholders to implement new features, resolve issues, and deliver scalable updates using modern TypeScript-based frameworks
 
-## Game Engines
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+- Live Operations Engineer at **Blizzard Entertainment**
+  - Contributed to *Diablo II: Resurrected* (LiveOps & systems support)
+  - Built internal automation tools in Python & C# to support large-scale game systems
+
+---
+
+## 🚀 Currently Building
+
+- Project Zomboid modular mod systems (Lua, stat resolvers, UI tooling)
+- Backend & API projects using Python + AWS
+- Personal automation & productivity tooling
+
+---
+
+<h2 align="center">🛠 Core Stack</h2>
+
+### ✨ Full Stack (TypeScript Ecosystem)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-5C2D91?style=for-the-badge&logo=nestjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+### ⚙️ Backend & Systems
+![Python](https://img.shields.io/badge/Python-2E3A8C?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-6A0DAD?style=for-the-badge&logo=.net&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+---
+
+### 🚀 DevOps & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-3B82F6?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7C3AED?style=for-the-badge&logo=terraform&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-8647F7?style=for-the-badge)
+
+---
+
+### 🎮 Game Systems
+![Unreal Engine](https://img.shields.io/badge/Unreal-1C1C1C?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-5C2D91?style=for-the-badge&logo=godot-engine)
+![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
+
+---
+
+## 🌠 Connect
+
+Always open to thoughtful conversations about systems, architecture, and building things that last.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/maria-alexis-sales/)  
+🌐 [Portfolio](https://mariaalexissales.github.io)
