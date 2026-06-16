@@ -37,9 +37,8 @@ with roots in game LiveOps & automation.
 
 ## 🚀 Currently Building
 
-- Project Zomboid modular mod systems (Lua, stat resolvers, UI tooling)
-- Backend & API projects using Python + AWS
-- Personal automation & productivity tooling
+- Bundle Up - A PZ mod for B42
+  - [ ] Integrate all rope bundle items
 
 ---
 
