@@ -2,7 +2,7 @@
 
 <p align="center">
 Currently building scalable systems on the web -  
-with roots in game LiveOps & automation.
+with roots in game LiveOps & full stack development.
 </p>
 
 <p align="center"> 
