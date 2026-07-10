@@ -44,8 +44,8 @@ with roots in game LiveOps & automation.
   - [ ] food packing, but with containers/preserve options
   - [ ] containers
 - Cooking Companion - A mobile web app for managing pantry inventory
-  - [ x ] favoriting certain pantry items to push them to the top
-  - [ x ] units drop down menu
+  - [x] favoriting certain pantry items to push them to the top
+  - [x] units drop down menu
   - [ ] header becomes hamburger drawer for mobile
 ---
 
