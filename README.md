@@ -37,9 +37,16 @@ with roots in game LiveOps & automation.
 
 ## 🚀 Currently Building
 
-- Bundle Up - A PZ mod for B42
-  - [ ] Integrate all rope bundle items
-
+- [Bundle Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343) - A PZ item packing mod for B42
+  - [ ] add admin sandbox menu to adjust encumbrance % or set weights
+  - [ ] add packing option for different soda fluids
+  - [ ] add UI for packing multiple items
+  - [ ] food packing, but with containers/preserve options
+  - [ ] containers
+- Cooking Companion - A mobile web app for managing pantry inventory
+  - [ x ] favoriting certain pantry items to push them to the top
+  - [ x ] units drop down menu
+  - [ ] header becomes hamburger drawer for mobile
 ---
 
 <h2 align="center">🛠 Core Stack</h2>
