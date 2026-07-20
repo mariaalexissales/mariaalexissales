@@ -39,7 +39,7 @@ with roots in game LiveOps & full stack development.
 
 - [Bundle Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343) - A PZ item packing mod for B42
   - [ ] add admin sandbox menu to adjust encumbrance % or set weights
-  - [ ] add packing option for different soda fluids
+  - [ x ] ~~add packing option for different soda fluids~~
   - [ ] add UI for packing multiple items
   - [ ] food packing, but with containers/preserve options
   - [ ] containers
