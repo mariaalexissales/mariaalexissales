@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm Maria Alexis Sales 👋</h1>
 
 <p align="center">
-Currently building scalable systems on the web -  
-with roots in game LiveOps & full stack development.
+I think I'm just trying to have fun at this point with programming lol no specific goal, but I did start in LiveOps and Automation engineering.
 </p>
 
 <p align="center"> 
@@ -38,7 +37,7 @@ with roots in game LiveOps & full stack development.
 ## 🚀 Currently Building
 
 - [Bundle Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343) - A PZ item packing mod for B42
-  - [ ] add admin sandbox menu to adjust encumbrance % or set weights
+  - [x] ~~add admin sandbox menu to adjust encumbrance % or set weights~~
   - [x] ~~add packing option for different soda fluids~~
   - [ ] add UI for packing multiple items
   - [ ] food packing, but with containers/preserve options
@@ -83,7 +82,7 @@ with roots in game LiveOps & full stack development.
 
 ## 🌠 Connect
 
-Always open to thoughtful conversations about systems, architecture, and building things that last.
+Feel free to reach out! I'm just a girl on a mission now lol
 
 🔗 [LinkedIn](https://www.linkedin.com/in/maria-alexis-sales/)  
 🌐 [Portfolio](https://mariaalexissales.github.io)
