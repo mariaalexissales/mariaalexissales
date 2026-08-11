@@ -37,15 +37,7 @@ I think I'm just trying to have fun at this point with programming lol no specif
 ## 🚀 Currently Building
 
 - [Bundle Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343) - A PZ item packing mod for B42
-  - [x] ~~add admin sandbox menu to adjust encumbrance % or set weights~~
-  - [x] ~~add packing option for different soda fluids~~
-  - [ ] add UI for packing multiple items
-  - [ ] food packing, but with containers/preserve options
-  - [ ] containers
 - [Cooking Companion](https://mariaalexissales.github.io/cooking-companion/) - A mobile web app for managing pantry inventory
-  - [x] ~~favoriting certain pantry items to push them to the top~~
-  - [x] ~~units drop down menu~~
-  - [ ] header becomes hamburger drawer for mobile
 ---
 
 <h2 align="center">🛠 Core Stack</h2>
