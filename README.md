@@ -10,7 +10,7 @@ I think I'm just trying to have fun at this point with programming lol no specif
 
 <p align="center"> 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=8647F7&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Game+Systems+%26+LiveOps;Full+Stack+Developer;Advocate+for+Victims" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=8647F7&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Game+Systems+%26+LiveOps;Full+Stack+Developer;Advocate+for+Victims+of+Tech-Facilitated+Abuse" alt="Typing SVG" />
 </a> 
 </p>
 
