@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maria Alexis Sales 👋</h1>
+<h1 align="center">Hi, I'm Maria Alexis Sales 💜</h1>
 
 <p align="center">
 I think I'm just trying to have fun at this point with programming lol no specific goal, but I did start in LiveOps and Automation engineering.
