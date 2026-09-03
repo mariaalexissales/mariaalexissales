@@ -45,7 +45,7 @@ I think I'm just trying to have fun at this point with programming lol no specif
 - ⌛ **Quietroom** - Looks like a pomodoro/productivity timer, but it's actually a proof-of-concept survivor hotline & assistance app under the hood. Not wired to real services. Built to demonstrate awareness of tech-facilitated abuse and how safety tooling can be disguised in plain sight
 - 🍲 **[Pinoy Pantry](https://steamcommunity.com/sharedfiles/filedetails/?id=3791631305)** - Project Zomboid mod bringing Filipino food/pantry items into B42. Will have more staples soon!
 - 📦 **[Bundle Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343)** - A Project Zomboid item-packing mod for B42; currently working on adding merge/consolidating capabilities.
-- ❕ **[Quest System Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=3794717412) - A Project Zomboid framework mod that allows multiplayer servers to put in quests for their players to do. Built with roleplaying servers in mind!
+- ❕ **[Quest System Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=3794717412)** - A Project Zomboid framework mod that allows multiplayer servers to put in quests for their players to do. Built with roleplaying servers in mind!
 
 <br>
 
