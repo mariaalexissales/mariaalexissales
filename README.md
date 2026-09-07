@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Maria Alexis Sales 💜</h1>
 
 <p align="center">
-I think I'm just trying to have fun at this point with programming lol no specific goal, but I did start in LiveOps and Automation engineering.
+I’m a software engineer who likes figuring out how things work and then building something with them. I started out in LiveOps and automation engineering, and these days I’m having fun exploring backend systems, game systems, and full-stack development.
 </p>
 
 <p align="center">
