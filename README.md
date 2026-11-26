@@ -1,106 +1,109 @@
-<h1 align="center">Hi, I'm Maria Alexis Sales 💜</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+  <img src="./assets/banner-light.svg" width="100%" alt="Maria Alexis Sales, senior software engineer at Nara Benefits, Chicago">
+</picture>
 
 <p align="center">
-I’m a software engineer who likes figuring out how things work and then building something with them. I started out in LiveOps and automation engineering, and these days I’m having fun exploring backend systems, game systems, and full-stack development.
+I'm a backend-leaning software engineer who likes figuring out how things work and then building something with them. Right now that's a HIPAA-regulated health benefits platform at Nara Benefits. Before that: enterprise platforms at USG, fintech at Pacific Life, and LiveOps on <em>Diablo II: Resurrected</em> at Blizzard. Off the clock I make Project Zomboid mods (a lot of them, honestly) and safety tooling for survivors of tech-facilitated abuse.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mariaalexissales&label=Profile%20views&color=8647F7&style=flat" alt="mariaalexissales" />
+<a href="https://mariaalexissales.github.io">Portfolio</a> &nbsp;·&nbsp;
+<a href="https://www.linkedin.com/in/maria-alexis-sales/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://mariaalexissales.github.io/resume/maria-sales-resume.pdf">Resume</a>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mariaalexissales&label=Profile%20views&color=8647F7&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=8647F7&center=true&vCenter=true&width=600&lines=Backend+%26+Automation+Engineer;Game+Systems+%26+LiveOps;Full+Stack+Developer;Advocate+for+Victims+of+Tech-Facilitated+Abuse" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=B78CFF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%40+Nara+Benefits;Backend+%26+Distributed+Systems;Project+Zomboid+Modder;Advocate+for+Survivors+of+Tech-Facilitated+Abuse" alt="Senior Software Engineer at Nara Benefits. Backend and distributed systems. Project Zomboid modder. Advocate for survivors of tech-facilitated abuse." />
 </a>
 </p>
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=mariaalexissales&theme=shadow-purple" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=mariaalexissales&theme=shadow-purple&background=0A0711&ring=B78CFF&fire=E85FFF&currStreakLabel=B78CFF&hide_border=true" alt="GitHub streak" />
 </a>
 </p>
 
-<p align="center">
-🔗 <a href="https://www.linkedin.com/in/maria-alexis-sales/">LinkedIn</a> &nbsp;•&nbsp;
-🌐 <a href="https://mariaalexissales.github.io">Portfolio</a> &nbsp;•&nbsp;
-💻 <a href="https://github.com/mariaalexissales">GitHub</a>
-</p>
+## Now
 
-<br>
+**Senior Software Engineer** at **Nara Benefits**, Oct 2026 to now
 
-## 🌌 Experience Snapshot
+- Spanish support end to end across the member portal: a translation review flow in the CRM, members' language saved on the server, and carried into emails, SMS, EOBs and the AI chat assistant
+- Vendor claims and payments intake on SFTP connectors, Temporal schedules and an append-only ledger in PostgreSQL, with an alarm on every feed
+- Hardening: secrets and member contact details out of the logs, query strings redacted from WAF logs, dependency advisories cleared across the monorepo
 
-**Full Stack Developer** @ **USG**
-- Maintain and enhance production web applications supporting content discovery and digital resources
-- Collaborate with stakeholders to implement new features, resolve issues, and deliver scalable updates using modern TypeScript-based frameworks
+## Before that
 
-**Live Operations Engineer** @ **Blizzard Entertainment**
-- Contributed to *Diablo II: Resurrected* (LiveOps & systems support)
-- Built internal automation tools in Python & C# to support large-scale game systems
+| Where | What I did | When |
+|---|---|---|
+| **USG** | NestJS backend for the redesigned USG site. Fixed Kafka messages blowing the 2GB limit and traced PostgreSQL → Kafka → Algolia in Datadog | 2025–26 |
+| **Pacific Life** | C# event-ingestion API onto Kafka; MuleSoft integrations moved to Lambda across three regions | 2024 |
+| **Blizzard** | LiveOps tooling for *Diablo II: Resurrected*: console crash reports routed per platform, and a build step that killed environment drift | 2022–24 |
+| **Snorkel AI** | Reviewing coding-agent benchmark tasks built from real open-source PRs | 2024–now |
 
-<br>
+## Building
 
-## 🚀 Currently Building
+| | |
+|---|---|
+| [**Quietroom**](https://github.com/mariaalexissales/Quietroom) | Looks like a pomodoro timer. Underneath, it's survivor resources built around the HARMS threat model. Proof of concept, not wired to real services |
+| [**go-ledger**](https://github.com/mariaalexissales/Go-Ledger) | Double-entry ledger API in Go with a live security console. One demo spoofs `X-Forwarded-For`, toggle the fix off and watch it get through · [try it](https://mariaalexissales.github.io/Go-Ledger/) |
+| [**Cooking Companion**](https://github.com/mariaalexissales/cooking-companion) | Local-first pantry PWA for the "do we already have this?" moment in the supermarket aisle · [try it](https://mariaalexissales.github.io/cooking-companion/) |
 
-- ⌛ **Quietroom** - Looks like a pomodoro/productivity timer, but it's actually a proof-of-concept survivor hotline & assistance app under the hood. Not wired to real services. Built to demonstrate awareness of tech-facilitated abuse and how safety tooling can be disguised in plain sight
-- 🍲 **[Pinoy Pantry](https://steamcommunity.com/sharedfiles/filedetails/?id=3791631305)** - A Project Zomboid mod bringing Filipino food/pantry items into B42. Will have more staples soon!
-- 📦 **[Bundle Up](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343)** - A Project Zomboid item-packing mod for B42; currently working on adding merge/consolidating capabilities.
-- ❕ **[Quest System Framework](https://steamcommunity.com/sharedfiles/filedetails/?id=3794717412)** - A Project Zomboid framework mod that allows multiplayer servers to put in quests for their players to do. Built with roleplaying servers in mind!
+### Project Zomboid mods (B42)
 
-<br>
+| | |
+|---|---|
+| [**LAPLACE//DAEMON**](https://steamcommunity.com/sharedfiles/filedetails/?id=3809376465) | Server-authoritative item RPG: forged blades roll rarity, tarot cards socket in. Clients never send outcomes |
+| [**Dead Court Deck**](https://steamcommunity.com/sharedfiles/filedetails/?id=3800241753) | 352-card collectible economy with admin-defined rewards in one JSON file |
+| [**Quest System Framework**](https://steamcommunity.com/sharedfiles/filedetails/?id=3794717412) | Quests for MP servers, made with RP servers in mind. No restart needed |
+| [**Player Leaderboard System**](https://steamcommunity.com/sharedfiles/filedetails/?id=3795596462) | Kill and death boards that are hard to farm |
+| [**Remove Vanilla Anything**](https://steamcommunity.com/sharedfiles/filedetails/?id=3799346338) | 66 toggles to pull vanilla loot and vehicles out of the spawn tables |
+| [**Bundle Up!**](https://steamcommunity.com/sharedfiles/filedetails/?id=3746632343) | Pack loose inventory into carryable bundles, now with a packing UI |
+| [**Pinoy Pantry**](https://steamcommunity.com/sharedfiles/filedetails/?id=3791631305) | Filipino pantry staples in Knox County. More coming! |
 
-<h2 align="center">🛠 Core Stack</h2>
+## Stack
 
-### ✨ Full Stack (TypeScript Ecosystem)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=for-the-badge&logo=next.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-5C2D91?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-2D79C7?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+**Languages** &nbsp;
+![Go](https://img.shields.io/badge/Go-1E1433?style=flat-square&logo=go&logoColor=B78CFF)
+![C#](https://img.shields.io/badge/C%23-1E1433?style=flat-square&logo=dotnet&logoColor=B78CFF)
+![Java](https://img.shields.io/badge/Java-1E1433?style=flat-square&logo=openjdk&logoColor=B78CFF)
+![Python](https://img.shields.io/badge/Python-1E1433?style=flat-square&logo=python&logoColor=B78CFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E1433?style=flat-square&logo=typescript&logoColor=B78CFF)
+![C++](https://img.shields.io/badge/C%2B%2B-1E1433?style=flat-square&logo=cplusplus&logoColor=B78CFF)
+![Lua](https://img.shields.io/badge/Lua-1E1433?style=flat-square&logo=lua&logoColor=B78CFF)
 
----
+**Backend** &nbsp;
+![Kafka](https://img.shields.io/badge/Kafka-1E1433?style=flat-square&logo=apachekafka&logoColor=B78CFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E1433?style=flat-square&logo=postgresql&logoColor=B78CFF)
+![Temporal](https://img.shields.io/badge/Temporal-1E1433?style=flat-square&logo=temporal&logoColor=B78CFF)
+![NestJS](https://img.shields.io/badge/NestJS-1E1433?style=flat-square&logo=nestjs&logoColor=B78CFF)
+![Node.js](https://img.shields.io/badge/Node.js-1E1433?style=flat-square&logo=nodedotjs&logoColor=B78CFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1E1433?style=flat-square&logo=springboot&logoColor=B78CFF)
+![Redis](https://img.shields.io/badge/Redis-1E1433?style=flat-square&logo=redis&logoColor=B78CFF)
 
-### 🐹 Go Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Chi](https://img.shields.io/badge/Chi_Router-1a1a1a?style=for-the-badge&logo=go&logoColor=white)
+**Cloud** &nbsp;
+![AWS](https://img.shields.io/badge/AWS-1E1433?style=flat-square)
+![GCP](https://img.shields.io/badge/GCP-1E1433?style=flat-square&logo=googlecloud&logoColor=B78CFF)
+![Azure](https://img.shields.io/badge/Azure-1E1433?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-1E1433?style=flat-square&logo=docker&logoColor=B78CFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1E1433?style=flat-square&logo=kubernetes&logoColor=B78CFF)
+![Terraform](https://img.shields.io/badge/Terraform-1E1433?style=flat-square&logo=terraform&logoColor=B78CFF)
+![Datadog](https://img.shields.io/badge/Datadog-1E1433?style=flat-square&logo=datadog&logoColor=B78CFF)
 
----
+**Frontend** &nbsp;
+![React](https://img.shields.io/badge/React-1E1433?style=flat-square&logo=react&logoColor=B78CFF)
+![Next.js](https://img.shields.io/badge/Next.js-1E1433?style=flat-square&logo=nextdotjs&logoColor=B78CFF)
 
-### ☕ Java Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+**Games** &nbsp;
+![Godot](https://img.shields.io/badge/Godot-1E1433?style=flat-square&logo=godotengine&logoColor=B78CFF)
+![Unreal](https://img.shields.io/badge/Unreal-1E1433?style=flat-square&logo=unrealengine&logoColor=B78CFF)
+![Project Zomboid](https://img.shields.io/badge/Project_Zomboid-1E1433?style=flat-square)
 
----
+## Say hi
 
-### 🐍 Python & Automation
-![Python](https://img.shields.io/badge/Python-2E3A8C?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
----
-
-### 🚀 DevOps & Infrastructure
-![Docker](https://img.shields.io/badge/Docker-3B82F6?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7C3AED?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-4B0082?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-8647F7?style=for-the-badge)
-
----
-
-### 🎮 Game Systems
-![Unreal Engine](https://img.shields.io/badge/Unreal-1C1C1C?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-5C2D91?style=for-the-badge&logo=godot-engine)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-000080?style=for-the-badge&logo=lua&logoColor=white)
-
-<br>
-
-## 🌠 Connect
-
-Feel free to reach out! I'm just a girl on a mission now lol
-
-🔗 [LinkedIn](https://www.linkedin.com/in/maria-alexis-sales/)
-🌐 [Portfolio](https://mariaalexissales.github.io)
+Running a PZ server and want something built, or just wanna talk backend stuff? Find me on [LinkedIn](https://www.linkedin.com/in/maria-alexis-sales/) or drop a comment on any of the Workshop pages :D
