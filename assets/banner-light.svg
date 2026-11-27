@@ -9,18 +9,18 @@
   </g>
   <text x="64" y="92" font-family="Consolas, 'SFMono-Regular', ui-monospace, monospace" font-size="16" letter-spacing="4" fill="#0E6E8C">// HELLO_WORLD.EXE</text>
   <g font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2">
-    <text x="61" y="172" fill="#FF0040" fill-opacity="0.25">Maria Alexis Sales</text>
-    <text x="67" y="172" fill="#00B8A9" fill-opacity="0.3">Maria Alexis Sales</text>
-    <text x="64" y="172" fill="#150E24">Maria Alexis Sales</text>
+    <text x="61" y="172" fill="#E0004A" fill-opacity="0.25">Maria Alexis Sales</text>
+    <text x="67" y="172" fill="#0090C0" fill-opacity="0.3">Maria Alexis Sales</text>
+    <text x="64" y="172" fill="#1A1226">Maria Alexis Sales</text>
   </g>
-  <text x="64" y="214" font-family="Consolas, 'SFMono-Regular', ui-monospace, monospace" font-size="20" fill="#5B2FBF">senior software engineer <tspan fill="#5E5480">//</tspan> nara benefits <tspan fill="#5E5480">//</tspan> chicago, il</text>
+  <text x="64" y="214" font-family="Consolas, 'SFMono-Regular', ui-monospace, monospace" font-size="20" fill="#5B2FBF">senior software engineer <tspan fill="#655A85">//</tspan> nara benefits <tspan fill="#655A85">//</tspan> chicago, il</text>
   <g font-family="Consolas, 'SFMono-Regular', ui-monospace, monospace" font-size="14">
     <rect x="64.5" y="236.5" width="78" height="26" rx="3" fill="none" stroke="#5B2FBF" stroke-opacity="0.4"/>
-    <text x="103.5" y="254" text-anchor="middle" fill="#150E24">backend</text>
+    <text x="103.5" y="254" text-anchor="middle" fill="#1A1226">backend</text>
     <rect x="152.5" y="236.5" width="170" height="26" rx="3" fill="none" stroke="#5B2FBF" stroke-opacity="0.4"/>
-    <text x="237.5" y="254" text-anchor="middle" fill="#150E24">distributed systems</text>
+    <text x="237.5" y="254" text-anchor="middle" fill="#1A1226">distributed systems</text>
     <rect x="332.5" y="236.5" width="116" height="26" rx="3" fill="none" stroke="#5B2FBF" stroke-opacity="0.4"/>
-    <text x="390.5" y="254" text-anchor="middle" fill="#150E24">game systems</text>
+    <text x="390.5" y="254" text-anchor="middle" fill="#1A1226">game systems</text>
     <rect x="458.5" y="236.5" width="132" height="26" rx="3" fill="none" stroke="#A81FB0" stroke-opacity="0.5"/>
     <text x="524.5" y="254" text-anchor="middle" fill="#A81FB0">safety tooling</text>
   </g>

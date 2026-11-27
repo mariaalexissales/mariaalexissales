@@ -3,8 +3,8 @@
   <img src="./assets/banner-light.svg" width="100%" alt="Maria Alexis Sales, senior software engineer at Nara Benefits, Chicago">
 </picture>
 
-<p align="center">
-I'm a backend-leaning software engineer who likes figuring out how things work and then building something with them. Right now that's a HIPAA-regulated health benefits platform at Nara Benefits. Before that: enterprise platforms at USG, fintech at Pacific Life, and LiveOps on <em>Diablo II: Resurrected</em> at Blizzard. Off the clock I make Project Zomboid mods (a lot of them, honestly) and safety tooling for survivors of tech-facilitated abuse.
+<p>
+I'm a software engineer who likes figuring out how things work and then building something with them. Right now that's a HIPAA-regulated health benefits platform at Nara Benefits. Before that: enterprise platforms at USG, fintech at Pacific Life, and LiveOps on <em>Diablo II: Resurrected</em> at Blizzard. Off the clock I make Project Zomboid mods (a lot of them, honestly) and safety tooling for survivors of tech-facilitated abuse.
 </p>
 
 <p align="center">
@@ -14,18 +14,24 @@ I'm a backend-leaning software engineer who likes figuring out how things work a
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mariaalexissales&label=Profile%20views&color=8647F7&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=mariaalexissales&label=Profile%20views&color=5B2FBF&style=flat" alt="Profile views" />
 </p>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=B78CFF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%40+Nara+Benefits;Backend+%26+Distributed+Systems;Project+Zomboid+Modder;Advocate+for+Survivors+of+Tech-Facilitated+Abuse" alt="Senior Software Engineer at Nara Benefits. Backend and distributed systems. Project Zomboid modder. Advocate for survivors of tech-facilitated abuse." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=B78CFF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%40+Nara+Benefits;Backend+%26+Distributed+Systems;Project+Zomboid+Modder;Advocate+for+Survivors+of+Tech-Facilitated+Abuse">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1200&color=5B2FBF&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%40+Nara+Benefits;Backend+%26+Distributed+Systems;Project+Zomboid+Modder;Advocate+for+Survivors+of+Tech-Facilitated+Abuse" alt="Senior Software Engineer at Nara Benefits. Backend and distributed systems. Project Zomboid modder. Advocate for survivors of tech-facilitated abuse." />
+</picture>
 </a>
 </p>
 
 <p align="center">
 <a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com?user=mariaalexissales&theme=shadow-purple&background=0A0711&ring=B78CFF&fire=E85FFF&currStreakLabel=B78CFF&hide_border=true" alt="GitHub streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=mariaalexissales&theme=shadow-purple&background=0A0711&ring=B78CFF&fire=E85FFF&currStreakLabel=B78CFF&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=mariaalexissales&background=F4F1FA&ring=5B2FBF&fire=A81FB0&currStreakLabel=5B2FBF&currStreakNum=1A1226&sideNums=1A1226&sideLabels=655A85&dates=655A85&stroke=DDD5EE&hide_border=true" alt="GitHub streak" />
+</picture>
 </a>
 </p>
 
@@ -37,6 +43,8 @@ I'm a backend-leaning software engineer who likes figuring out how things work a
 - Vendor claims and payments intake on SFTP connectors, Temporal schedules and an append-only ledger in PostgreSQL, with an alarm on every feed
 - Hardening: secrets and member contact details out of the logs, query strings redacted from WAF logs, dependency advisories cleared across the monorepo
 
+Also at **Snorkel AI** since 2024, reviewing coding-agent benchmark tasks built from real open-source PRs.
+
 ## Before that
 
 | Where | What I did | When |
@@ -44,14 +52,12 @@ I'm a backend-leaning software engineer who likes figuring out how things work a
 | **USG** | NestJS backend for the redesigned USG site. Fixed Kafka messages blowing the 2GB limit and traced PostgreSQL → Kafka → Algolia in Datadog | 2025–26 |
 | **Pacific Life** | C# event-ingestion API onto Kafka; MuleSoft integrations moved to Lambda across three regions | 2024 |
 | **Blizzard** | LiveOps tooling for *Diablo II: Resurrected*: console crash reports routed per platform, and a build step that killed environment drift | 2022–24 |
-| **Snorkel AI** | Reviewing coding-agent benchmark tasks built from real open-source PRs | 2024–now |
-
 ## Building
 
 | | |
 |---|---|
 | [**Quietroom**](https://github.com/mariaalexissales/Quietroom) | Looks like a pomodoro timer. Underneath, it's survivor resources built around the HARMS threat model. Proof of concept, not wired to real services |
-| [**go-ledger**](https://github.com/mariaalexissales/Go-Ledger) | Double-entry ledger API in Go with a live security console. One demo spoofs `X-Forwarded-For`, toggle the fix off and watch it get through · [try it](https://mariaalexissales.github.io/Go-Ledger/) |
+| [**go-ledger**](https://github.com/mariaalexissales/Go-Ledger) | Double-entry ledger API in Go with a live security console. One demo spoofs `X-Forwarded-For`. Toggle the fix off and watch it get through · [try it](https://mariaalexissales.github.io/Go-Ledger/) |
 | [**Cooking Companion**](https://github.com/mariaalexissales/cooking-companion) | Local-first pantry PWA for the "do we already have this?" moment in the supermarket aisle · [try it](https://mariaalexissales.github.io/cooking-companion/) |
 
 ### Project Zomboid mods (B42)
